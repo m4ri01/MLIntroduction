@@ -8,7 +8,5 @@ Matplotlib
 Scikit-Learn  
 
 ## Tools  
-Anaconda  
-[a link](https://www.anaconda.com/distribution/)  
-Google colabs  
-[a link](https://colab.research.google.com/)
+[Anaconda](https://www.anaconda.com/distribution/)  
+[Google colabs](https://colab.research.google.com/)
